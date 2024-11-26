@@ -59,34 +59,6 @@ Clone this repository, compile the code, and start challenging the computer! �
 
 ---
 
-## ▶️ Sample Output  
-
-Here’s what a typical game output might look like:  
-
-```plaintext
-How Many Questions : (1 => 100) 10
-Enter Questions Level : [1]:Easy , [2]:Med , [3]:Hard , [4]:Mix ? 1
-Enter Operation Type : [1]:Add , [2]:Sub , [3]:Mul , [4]:Div , [5]:Mix ? 1
-
-Question [1/10] 
-5
-3  +
-_________________
-
-Your Answer: 8
-Right Answer : -) 
-
-Question [2/10] 
-8
-4  +
-_________________
-
-Your Answer: 15
-Wrong Answer  : -( 
-The Right Answer is : 12
-
-Final Results is : PASS : -)
-_________________________________________________
 Number Of Questions       : 10
 Questions Level           : Easy
 Operation Type            : +
