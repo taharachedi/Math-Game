@@ -57,11 +57,3 @@ This project helps you explore and implement various C++ programming concepts:
 
 Clone this repository, compile the code, and start challenging the computer! 🚀
 
----
-
-Number Of Questions       : 10
-Questions Level           : Easy
-Operation Type            : +
-Number Of Right Questions : 8
-Number Of Wrong Questions : 2
-_________________________________________________
