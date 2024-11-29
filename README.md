@@ -55,5 +55,5 @@ This project helps you explore and implement various C++ programming concepts:
 
 ## 🏁 Ready to Play?
 
-Clone this repository, compile the code, and start challenging the computer! 🚀
+Clone this repository, compile the code, and start challenging the computer!🚀
 
